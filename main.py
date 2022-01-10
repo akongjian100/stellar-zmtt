@@ -6,7 +6,7 @@ import StellarPlayer
 import re
 import urllib.parse
 
-zmtt_url = 'https://www.zimutiantang.com'
+zmtt_url = 'https://subhd.tv'
 
 
 def concatUrl(url1, url2):
